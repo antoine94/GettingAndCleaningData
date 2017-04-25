@@ -11,3 +11,6 @@
 - Converts the activity and subject columns into factors and replace the activities identifiers to understandable labels.
 - Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 - The end result is shown in the file tidyData.txt
+
+
+Launch the script with this command: source("run_analysis.R")
